@@ -1,4 +1,4 @@
-# DockerNodeApp on Alpine 
+# DockerNodeApp Alpine Linux
 Dockerize a express nodejs application 
 
 ### Usage:
